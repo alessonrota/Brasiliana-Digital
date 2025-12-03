@@ -1,6 +1,6 @@
 # Brasiliana-Digital
 
-## Algoritmo para coleta e analíse da https://brasilianadigital.com.br/
+## Algoritmo para coleta e análise da https://brasilianadigital.com.br/
 
 
 Instalação e configuração
